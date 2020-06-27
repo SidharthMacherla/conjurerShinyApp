@@ -7,7 +7,7 @@ library(shinydashboard)
 ui <- dashboardPage(skin = "green", title = "Synthetic data generator",
                     dashboardHeader(title = h4("Synthetic data generator"), 
                                     
-                                    tags$li(a(href = 'https://github.com/SidharthMacherla/conjurer',
+                                    tags$li(a(href = 'https://github.com/SidharthMacherla/conjurerShinyApp',
                                               icon("github"), title = "Go to source code"),
                                               class = "dropdown"),
                                     tags$li(a(href = 'https://www.foyi.co.nz/posts/documentation/documentationconjurer/',
