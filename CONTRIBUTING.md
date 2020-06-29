@@ -1,1 +1,1 @@
-placeholder
+This app is a demo of the R package **conjurer**. This app does not accept any enhancements or issues separately. Please go [here](https://github.com/SidharthMacherla/conjurer/blob/master/CONTRIBUTING.md) to understand the contributing guidelines.
